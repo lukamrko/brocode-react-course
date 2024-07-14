@@ -1,6 +1,9 @@
+import ToDoList from "./ToDolist";
+
 function App() {
 	return (
 		<>
+			<ToDoList />
 		</>
 	);
 }
